@@ -137,8 +137,8 @@ The session lifecycle is modelled as an explicit `Enum`:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dangerous-writing-app.git
-cd dangerous-writing-app
+git clone https://github.com/azeemsher788/disappearing-text-writing-app.git
+cd disappearing-text-writing-app
 
 # Install the only third-party dependency
 pip install customtkinter
